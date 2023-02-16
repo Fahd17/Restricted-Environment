@@ -17,7 +17,7 @@ public class Server {
     @GetMapping
     public String findAllUsers() {
 
-        return "Heyyyyyy";
+        return "Heyyyyy";
     }
 
     @PostMapping
